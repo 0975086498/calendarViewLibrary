@@ -1,6 +1,6 @@
 # CalendarView
 
-[![Download](https://api.bintray.com/packages/ycuwq/android/calendarview/images/download.svg)](https://bintray.com/ycuwq/android/calendarview/_latestVersion)[![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+    [![Download](https://api.bintray.com/packages/ycuwq/android/calendarview/images/download.svg)](https://bintray.com/ycuwq/android/calendarview/_latestVersion)[![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 A support contraction and expansion of the Android calendar view.
 
@@ -9,7 +9,7 @@ A support contraction and expansion of the Android calendar view.
 ## Import
 ```
 dependencies {
-	implementation 'com.ycuwq.widgets:calendarview:latest-version'
+	implementation 'com.github.0975086498:'
 }
 ```
 
